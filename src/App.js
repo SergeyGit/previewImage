@@ -2,7 +2,7 @@ import {Helmet} from "react-helmet";
 import logo from './logo.svg';
 import './App.css';
 
-const previewImage = 'https://gcdn.tranzzo.com/static/images/mp-banner.png';
+// const previewImage = 'https://gcdn.tranzzo.com/static/images/mp-banner.png';
 
 function App() {
   return (
